@@ -1,0 +1,9 @@
+{
+    "id": "3",
+    "name": "Smith",
+    "location": "Canada",
+    "courses": [
+        "C#",
+        "RestAPI"
+    ]
+}
