@@ -1,2 +1,2 @@
-# RESTAsured
-This repository contains REST Assured concepts
+# RestAPIBySDET
+REST API Concepts
